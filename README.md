@@ -22,6 +22,11 @@ If the format of the input file is successfuly correct, the output file will hav
 
 ![Imgur](https://i.imgur.com/3MAfLhN.png)
 
+## Project design
+
+### UML Class Diagram
+
+### Class-responsibility-collaboration (CRC) cards
 
 ## Useful links
 
