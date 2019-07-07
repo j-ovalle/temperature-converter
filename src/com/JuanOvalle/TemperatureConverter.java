@@ -17,7 +17,7 @@ public class TemperatureConverter {
         List<String[]> queries = new ArrayList<String[]>();
 
         TemperatureConverter temperatureConverter = new TemperatureConverter();
-        //C:\Users\juan_\OneDrive\Escritorio\input.txt
+
         System.out.println("Welcome to the Temperature Converter Application!");
 
         Scanner scanner = new Scanner(System.in);
