@@ -26,6 +26,8 @@ If the format of the input file is successfuly correct, the output file will hav
 
 ### UML Class Diagram
 
+![Imgur](https://i.imgur.com/okCKHtn.png)
+
 ### Class-responsibility-collaboration (CRC) cards
 
 ## Useful links
