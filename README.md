@@ -24,6 +24,8 @@ If the format of the input file is successfuly correct, the output file will hav
 
 ## Project design
 
+This project consists only in one class, the TemperatureConverter.
+
 ### UML Class Diagram
 
 ![Imgur](https://i.imgur.com/okCKHtn.png)
