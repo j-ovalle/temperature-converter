@@ -28,7 +28,9 @@ If the format of the input file is successfuly correct, the output file will hav
 
 ![Imgur](https://i.imgur.com/okCKHtn.png)
 
-### Class-responsibility-collaboration (CRC) cards
+### Class-responsibility-collaboration (CRC) card
+
+![Imgur](https://i.imgur.com/3rsBvNX.png)
 
 ## Useful links
 
