@@ -38,4 +38,4 @@ This project consists only in one class, the TemperatureConverter.
 
 [Java Runtime Environment (JRE)](https://www.java.com/en/download/manual.jsp)
 
-[How can you apply Machine Learning in this application? (Spanish)](https://medium.com/@juanovallep/c%C3%B3mo-puedes-aplicar-machine-learning-en-la-aplicaci%C3%B3n-de-conversor-de-temperaturas-1aa2c420dadf)
+[How can you apply Machine Learning in this application?](https://medium.com/@juanovallep/c%C3%B3mo-puedes-aplicar-machine-learning-en-la-aplicaci%C3%B3n-de-conversor-de-temperaturas-1aa2c420dadf)
